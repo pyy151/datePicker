@@ -21,7 +21,6 @@
 @property (nonatomic, assign) id<datePickerDelegate> delegate;
 @property (nonatomic, strong) UIDatePicker *datePicker;
 
-
 -(void)showDatePicker;
 
 @end
